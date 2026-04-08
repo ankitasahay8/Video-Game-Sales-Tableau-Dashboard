@@ -66,7 +66,7 @@ Key attributes include:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard3.png)
 
 ---
 
